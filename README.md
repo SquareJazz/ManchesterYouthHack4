@@ -1,7 +1,7 @@
 # The Hive Learning Network & HackManchester Challenge
 
 <img src='Copy of hivemanchester logo.png' height="150" width="330" />
-<img src='hac2 YEL-1.png' height="150" width="330" />
+<img src='hac 2 YEL-1.png' height="150" width="330" />
 
 ## The Challenge
 
