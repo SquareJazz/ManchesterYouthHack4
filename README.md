@@ -1,16 +1,21 @@
-# HackManchester & Hive Manchester Challenge
+# Hive Learning Networks & HackManchester Challenge
 
 <img src='Copy of hivemanchester logo.png' height="150" width="330" />
-<img src='Hack MCR logo twitter.png' height="150" width="330" />
+<img src='hac2 Yel-1' height="150" width="330" />
 
 ## The Challenge
 
-The reason developers work so well together is that we all believe that the most important question is 'why?' When you have a purpose and are all driven towards the same goals, everyone pulls in the same direction, and you become hugely effective as a team.
+Make us laugh!
+Do something silly with a Raspberry Pi, Microbit, Makey Makey and any other bits and pieces.
 
-Our 'why' is simple: to have a positive impact.
+It could look or act funny, doing something unexpected when you come near it, talk to it or push its buttons, prank us...
 
-We challenge you to channel that way of thinking and build a hack that will have a positive impact. This could be on an individual, a business, your local community: anything!
+Use your imagination.
+
+And remember that pranks and jokes are supposed to make people good, not feel embarrassed or uncomfortable - so do something you'd be happy to be on the receiving end of.
+
+And most importantly, have fun!
 
 ## The Prize
 
-£15 Amazon Vouchers for each member of the winning team
+
