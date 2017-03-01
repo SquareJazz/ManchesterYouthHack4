@@ -1,7 +1,7 @@
-# Hive Learning Networks & HackManchester Challenge
+# The Hive Learning Network & HackManchester Challenge
 
 <img src='Copy of hivemanchester logo.png' height="150" width="330" />
-<img src='hac2 Yel-1' height="150" width="330" />
+<img src='hac2 Yel-1.png' height="150" width="330" />
 
 ## The Challenge
 
@@ -17,5 +17,6 @@ And remember that pranks and jokes are supposed to make people good, not feel em
 And most importantly, have fun!
 
 ## The Prize
+
 
 
