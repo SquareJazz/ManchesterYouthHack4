@@ -1,7 +1,7 @@
 # HackManchester & Hive Manchester Challenge
 
-<img src='images/GMHackFest.png' height="150" width="330" />
-<img src='images/Hack Manchester.png' height="150" width="330" />
+<img src='Copy of hivemanchester logo.png' height="150" width="330" />
+<img src='Hack MCR logo twitter.png' height="150" width="330" />
 
 ## The Challenge
 
