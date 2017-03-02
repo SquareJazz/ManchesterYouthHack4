@@ -1,7 +1,7 @@
 # The Hive Learning Network & HackManchester Challenge
 
 <img src='Copy of hivemanchester logo.png' height="150" width="330" />
-<img src='hac 2 YEL-1.png' height="150" width="330" />
+<img src='hac 2 YEL-1.png' height="150" width="auto" />
 
 ## The Challenge
 
@@ -15,6 +15,8 @@ Use your imagination.
 And remember that pranks and jokes are supposed to make people good, not feel embarrassed or uncomfortable - so do something you'd be happy to be on the receiving end of.
 
 And most importantly, have fun!
+
+<img src='http://i.makeagif.com/media/9-20-2015/RoWz64.gif' height="150" width="auto" />
 
 ## The Prize
 A BBC micro:bit for each member of the winning team.
