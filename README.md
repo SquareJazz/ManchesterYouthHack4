@@ -17,6 +17,6 @@ And remember that pranks and jokes are supposed to make people good, not feel em
 And most importantly, have fun!
 
 ## The Prize
-TBC
+A BBC micro:bit for each member of the winning team.
 
 
