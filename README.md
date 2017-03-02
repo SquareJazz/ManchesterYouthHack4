@@ -6,6 +6,7 @@
 ## The Challenge
 
 Make us laugh!
+
 Do something silly with a Raspberry Pi, Microbit, Makey Makey and any other bits and pieces.
 
 It could look or act funny, doing something unexpected when you come near it, talk to it or push its buttons, prank us...
@@ -16,7 +17,7 @@ And remember that pranks and jokes are supposed to make people good, not feel em
 
 And most importantly, have fun!
 
-<img src='1080p_HD_Make_Em_Laugh_Singin_in_the_Rain_1952.gif' height="150" width="auto" />
+<img src='1080p_HD_Make_Em_Laugh_Singin_in_the_Rain_1952.gif' height="auto" width="auto" />
 
 
 ## The Prize
