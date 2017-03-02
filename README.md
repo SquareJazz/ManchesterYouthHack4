@@ -16,8 +16,8 @@ And remember that pranks and jokes are supposed to make people good, not feel em
 
 And most importantly, have fun!
 
-<img src='http://i.makeagif.com/media/9-20-2015/RoWz64.gif' height="150" width="auto" />
-![test]['http://i.makeagif.com/media/9-20-2015/RoWz64.gif']
+<img src='1080p_HD_Make_Em_Laugh_Singin_in_the_Rain_1952.gif' height="150" width="auto" />
+
 
 ## The Prize
 A BBC micro:bit for each member of the winning team.
