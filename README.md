@@ -13,7 +13,7 @@ It could look or act funny, doing something unexpected when you come near it, ta
 
 Use your imagination.
 
-And remember that pranks and jokes are supposed to make people good, not feel embarrassed or uncomfortable - so do something you'd be happy to be on the receiving end of.
+And remember that pranks and jokes are supposed to make people feel good, not feel embarrassed or uncomfortable - so do something you'd be happy to be on the receiving end of.
 
 And most importantly, have fun!
 
